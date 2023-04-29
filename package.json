@@ -1,0 +1,27 @@
+{
+  "name": "animeh-tools",
+  "version": "1.0.0",
+  "description": "My personal collection of tools for watching anime :3",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "wibu",
+    "anime",
+    "otaku"
+  ],
+  "author": "Reyuki-san",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "typescript": "^5.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reyuki-san/vvibu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reyuki-san/vvibu/issues"
+  },
+  "homepage": "https://github.com/Reyuki-san/vvibu#readme"
+}
