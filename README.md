@@ -13,3 +13,7 @@ Explanation:
 - `srt_path_file:` Path to srt file
 - `duration:` duration time in second
 - `operation:` operation to be performed, `subtract` | `add`
+
+### Download batch subtitle: `<anime title>` `S<season>E<episode>`
+
+e.g `Mirai Nikki S01E06`
