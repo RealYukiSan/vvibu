@@ -1,5 +1,13 @@
 # My collection of tools for watching anime :3
 
+## Work in Progress
+
+## Included tools are:
+
+- Downloader, e.g download subtitle and video from variant resources
+- Subtitle Manager, e.g delay timestamp, etc...
+- File and Folder Utility, e.g flat extract compressed file, auto-rename batch file (both subtitle and video file)
+
 ## Usage
 
 First, build the source: `npm run build`

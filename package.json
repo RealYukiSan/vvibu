@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Reyuki-san/vvibu/issues"
   },
-  "homepage": "https://github.com/Reyuki-san/vvibu#readme"
+  "homepage": "https://github.com/Reyuki-san/vvibu#readme",
+  "dependencies": {
+    "listr2": "^6.6.0"
+  }
 }
